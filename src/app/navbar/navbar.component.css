@@ -1,0 +1,42 @@
+
+  
+    .navbar-nav>li>a{
+
+        color: #8e2d00;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: white;
+    
+    }
+    .navbar-nav{
+        float: right;
+    }
+    
+    ul.dropdown-menu {
+    
+    background-color: #f9ece6;
+    
+    border-radius: 8px;
+    
+    }
+    
+    ul.dropdown-menu :hover {
+    
+        background-color:white;
+    
+    }
+    
+    ul.dropdown-menu li a{
+    
+        color: #c85621;
+    
+    }
+
+    ul.dropdown:hover .dropdown-menu
+    {
+        display: block;
+    }
+
+    
+
+
+    
